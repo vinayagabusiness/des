@@ -1048,7 +1048,7 @@ footer {
   
   #hero { padding-top: 10.5rem; }
   .hero-ornament { display: none; }
-  .hero-bg { background-size: auto, auto, auto, contain; }
+  .hero-bg { background-size: auto, auto, auto, 200%; }
   .hero-stats { flex-wrap: wrap; gap: 1.5rem; }
   .about-grid, .contact-grid { grid-template-columns: 1fr; }
   .footer-top { grid-template-columns: 1fr 1fr; }
